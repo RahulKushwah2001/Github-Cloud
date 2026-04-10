@@ -45,8 +45,8 @@ app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/github-connector.git
-cd github-connector
+git clone https://github.com/RahulKushwah2001/Github-Cloud.git
+cd Github-Cloud
 ```
 
 ### 2. Create virtual environment
